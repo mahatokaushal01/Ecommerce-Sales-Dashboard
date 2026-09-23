@@ -10,9 +10,10 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 
 ## Why This Project Stands Out
 
-* **Visually Engaging:** The dashboard combines diverse visualizations, including bar charts, donut charts, and column charts, creating an interactive and insightful analysis.
-* **Business-Driven Insights:** Each visual is designed to answer specific business questions, such as identifying high-profit products, understanding customer preferences, and analyzing sales trends.
-* **Strategic Value:** The insights derived from this dashboard can support business strategies in sales optimization, regional targeting, payment-mode analysis, and inventory planning.
+📊 Interactive Dashboard: Combines bar charts, donut charts, and monthly trend visualizations to present key ecommerce metrics clearly.
+💡 Business Insights: Analyzes sales, profit, quantity, customers, payment methods, categories, and sub-categories.
+🎯 Data-Driven Decisions: Helps identify high-performing states, profitable product categories, customer trends, and monthly sales/profit patterns.
+📈 Business Value: Supports better decisions around sales optimization, regional targeting, payment methods, and inventory planning.
 
 ## Project Insight
 
