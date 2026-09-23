@@ -15,6 +15,8 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 * 🎯 **Data-Driven Decisions:** Helps identify high-performing states, profitable product categories, customer trends, and monthly sales/profit patterns.
 * 📈 **Business Value:** Supports better decisions around sales optimization, regional targeting, payment methods, and inventory planning.
 
+- Dashboard Interaction <a href="https://github.com/mahatokaushal01/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
+
 ## Project Insight
 
 - Total Sales: The dashboard records 438K total sales, 5,615 units sold, and 37K profit.
