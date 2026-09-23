@@ -10,6 +10,11 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 
 - Dashboard Interaction <a href="https://github.com/mahatokaushal01/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
 
+## Dashboard
+
+<img width="1322" height="742" alt="Dashboard Image" src="https://github.com/user-attachments/assets/81488728-7990-4ba8-9204-b56e56479af8" />
+
+
 ## Project Insight
 
 - Total Sales: The dashboard records 438K total sales, 5,615 units sold, and 37K profit.
