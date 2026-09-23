@@ -10,7 +10,7 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 
 ## 📈 Key KPIs
 
-# The dashboard tracks the following key performance indicators:
+The dashboard tracks the following key performance indicators:
 
 KPI	Value
 💰 Total Sales Amount	₹438K
