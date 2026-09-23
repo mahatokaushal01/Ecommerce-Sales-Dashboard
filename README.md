@@ -24,6 +24,10 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 - 📦 **Total Quantity Sold:** 5,615
 - 🛒 **Total AOV:** 121K
 
+## Dashboard
+
+<img width="1322" height="742" alt="Dashboard Image" src="https://github.com/user-attachments/assets/14db4662-bd8e-48fd-b5d1-3dc12dbc0fe6" />
+
 ## Project Insight
 
 - Total Sales: The dashboard records 438K total sales, 5,615 units sold, and 37K profit.
