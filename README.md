@@ -12,7 +12,8 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 
 ## Dashboard
 
-<img width="1322" height="742" alt="Dashboard Image" src="https://github.com/user-attachments/assets/7ed90f39-20a2-4b9f-a7d7-d36c644b4ff9" />
+<img width="1323" height="740" alt="Sales Analysis" src="https://github.com/user-attachments/assets/04932582-dc5c-402d-9288-25ffb5ac4dca" />
+
 
 
 ## Project Insight
