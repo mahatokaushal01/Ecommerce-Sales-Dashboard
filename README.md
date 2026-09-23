@@ -7,3 +7,13 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 ## Dataset used
 
 - <a href="https://github.com/mahatokaushal01/Ecommerce-Sales-Dashboard/blob/main/ecommerce_sales_dashboard.pbix">Dataset</a>
+
+##📈 Key KPIs
+
+The dashboard tracks the following key performance indicators:
+
+KPI	Value
+💰 Total Sales Amount	₹438K
+📦 Total Quantity	5,615
+💵 Total Profit	₹37K
+📊 Average Order Value (AOV)	₹121K
