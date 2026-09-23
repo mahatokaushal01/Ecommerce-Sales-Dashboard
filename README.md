@@ -12,7 +12,6 @@ This PowerBI project provides a comprehensive analysis of sales data, offering v
 
 ## Dashboard
 
-https://github.com/mahatokaushal01/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Image.png
 
 
 ## Project Insight
